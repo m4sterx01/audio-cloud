@@ -204,7 +204,7 @@ const AudioUploaderPage: FC = () => {
             <div className="w-full max-w-2xl">
                 <div className="bg-white rounded-lg shadow-lg p-6 sm:p-8 border border-slate-200">
                     <div className="text-center mb-8">
-                        <h1 className="text-4xl font-bold text-slate-800">Audio Player</h1>
+                        <h1 className="text-4xl font-bold text-slate-800">onionfarms.com for audio</h1>
                         <p className="text-slate-500 mt-2"></p>
                     </div>
 
